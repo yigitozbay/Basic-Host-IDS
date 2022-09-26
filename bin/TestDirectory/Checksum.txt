@@ -1,0 +1,5 @@
+Checksum.txt:93c26b03e95eddd5af86a681fe928d12
+SampleRar.rar:a6efca942a191dc78d07acc1aea7836e
+SampleText.txt:b1f4baffc37bf973d32b31b1380ca642
+SampleWord.docx:eebe4280f1532003484278aa4f11f19f
+test.txt:dd18bf3a8e0a2a3e53e2661c7fb
